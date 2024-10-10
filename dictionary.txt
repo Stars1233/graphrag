@@ -20,6 +20,7 @@ isna
 getcwd
 fillna
 noqa
+dtypes
 
 # Azure
 abfs
@@ -88,7 +89,6 @@ nbconvert
 binarize
 prechunked
 openai
-genid
 umap
 concat
 unhot
@@ -97,6 +97,9 @@ retryer
 agenerate
 aembed
 dedupe
+dropna
+dtypes
+notna
 
 # LLM Terms
 AOAI
